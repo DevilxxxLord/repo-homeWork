@@ -1,0 +1,16 @@
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\Level_8.exe
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\Level_8.deps.json
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\Level_8.runtimeconfig.json
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\Level_8.runtimeconfig.dev.json
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\Level_8.dll
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\Level_8.pdb
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.csprojAssemblyReference.cache
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.AssemblyInfoInputs.cache
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.AssemblyInfo.cs
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.csproj.CoreCompileInputs.cache
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.csproj.CopyComplete
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.dll
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.pdb
+C:\Users\a-tis\Desktop\работа c#\С#_уроки\28_03_2021\Level_8\Level_8\obj\Debug\netcoreapp3.1\Level_8.genruntimeconfig.cache
